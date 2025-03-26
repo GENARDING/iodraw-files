@@ -1260,19 +1260,19 @@
           <mxGeometry x="560" y="190" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yX-Wjq1n7PAXVHXqBjjL-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;用户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="200" width="100" height="50" as="geometry" />
+          <mxGeometry x="80" y="500" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yX-Wjq1n7PAXVHXqBjjL-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;客户端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="200" width="100" height="50" as="geometry" />
+          <mxGeometry x="200" y="500" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yX-Wjq1n7PAXVHXqBjjL-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;服务端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="200" width="100" height="50" as="geometry" />
+          <mxGeometry x="320" y="500" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yX-Wjq1n7PAXVHXqBjjL-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;AI识别服务&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="200" width="100" height="50" as="geometry" />
+          <mxGeometry x="440" y="500" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yX-Wjq1n7PAXVHXqBjjL-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;阿里云OSS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="200" width="100" height="50" as="geometry" />
+          <mxGeometry x="560" y="500" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
