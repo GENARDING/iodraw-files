@@ -67,7 +67,7 @@
           <mxGeometry x="434" y="355" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-147" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_rPZgR6n_TtvVpd1ZreW-118">
-          <mxGeometry x="70" y="450" width="510" height="220" as="geometry" />
+          <mxGeometry x="70" y="445" width="510" height="220" as="geometry" />
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-148" value="用户管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_rPZgR6n_TtvVpd1ZreW-118">
           <mxGeometry x="70" y="450" width="60" height="30" as="geometry" />
