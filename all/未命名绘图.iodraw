@@ -73,8 +73,8 @@
             <mxPoint x="720" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-76" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="370" width="60" height="30" as="geometry" />
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-76" value="LambdaQueryWrapper" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="377.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
