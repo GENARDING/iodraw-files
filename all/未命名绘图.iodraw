@@ -1435,7 +1435,7 @@
           <mxGeometry x="190" y="330" width="92.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CVL8axK1LQ1IrmlmmIUm-14" value="验证不通过" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="320" width="90" height="30" as="geometry" />
+          <mxGeometry x="38.75" y="300" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
