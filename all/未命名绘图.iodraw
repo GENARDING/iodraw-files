@@ -12,6 +12,9 @@
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-119" value="野生菌识别小程序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_rPZgR6n_TtvVpd1ZreW-118">
           <mxGeometry x="20" y="10" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-120" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="_rPZgR6n_TtvVpd1ZreW-118">
+          <mxGeometry x="30" y="60" width="410" height="410" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
