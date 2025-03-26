@@ -10,6 +10,9 @@
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="220" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_rPZgR6n_TtvVpd1ZreW-46" target="_rPZgR6n_TtvVpd1ZreW-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-46" value="BaseMapper接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="232.5" width="110" height="35" as="geometry" />
         </mxCell>
@@ -20,7 +23,10 @@
           <mxGeometry x="494" y="232.5" width="110" height="35" as="geometry" />
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="400" width="150" height="60" as="geometry" />
+          <mxGeometry x="230" y="400" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-64" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="335" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
