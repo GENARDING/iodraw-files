@@ -1378,6 +1378,11 @@
         <mxCell id="yX-Wjq1n7PAXVHXqBjjL-42" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="yX-Wjq1n7PAXVHXqBjjL-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="yX-Wjq1n7PAXVHXqBjjL-43" value="返回识别结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yX-Wjq1n7PAXVHXqBjjL-41">
+          <mxGeometry x="-0.0417" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
