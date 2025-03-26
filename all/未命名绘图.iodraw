@@ -1531,8 +1531,14 @@
         <mxCell id="joT4fAFLh5Sf9bYN0WfF-4" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;上传OSS&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="joT4fAFLh5Sf9bYN0WfF-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="joT4fAFLh5Sf9bYN0WfF-6" target="joT4fAFLh5Sf9bYN0WfF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="joT4fAFLh5Sf9bYN0WfF-6" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;调用AI服务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joT4fAFLh5Sf9bYN0WfF-8" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="360" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
