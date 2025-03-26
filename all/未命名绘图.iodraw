@@ -4,14 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="220" width="150" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-42" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="355" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-43" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="353.75" width="125" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.403;exitY=1.042;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.325;entryY=-0.042;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -19,62 +13,8 @@
             <mxPoint x="119" y="354.96000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="_rPZgR6n_TtvVpd1ZreW-43">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="280" as="sourcePoint" />
-            <mxPoint x="310" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-46" value="BaseMapper接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="232.5" width="110" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-47" value="通用CRUD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="95" y="355" width="70" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-48" value="自定义方法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="277.5" y="366.25" width="70" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="220" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-50" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="360" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-51" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="545" y="360" width="120" height="47.5" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.325;entryY=-0.042;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.24;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_rPZgR6n_TtvVpd1ZreW-49">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="521" y="283" as="sourcePoint" />
-            <mxPoint x="440" y="360.00000000000006" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.43;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="604.25" y="280" as="sourcePoint" />
-            <mxPoint x="604" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-54" value="条件构造器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="545" y="232.5" width="110" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-55" value="QueryWrapper" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="425" y="366.25" width="70" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-56" value="UpdateWrapper" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="366.25" width="70" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-71" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="362.5" width="150" height="37.5" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-74" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_rPZgR6n_TtvVpd1ZreW-49" target="_rPZgR6n_TtvVpd1ZreW-71">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="280" as="sourcePoint" />
-            <mxPoint x="720" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-76" value="LambdaQueryWrapper" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="740" y="380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
