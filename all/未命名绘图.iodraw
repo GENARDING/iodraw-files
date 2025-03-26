@@ -133,7 +133,7 @@
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-216" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="690" width="50" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-217" value="基础信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-217" value="文章列表" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="690" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-218" value="状态管理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
