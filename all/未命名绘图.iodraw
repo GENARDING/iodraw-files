@@ -104,7 +104,7 @@
           <mxGeometry x="730" y="191.25" width="110" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-191" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;析&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="740" y="195" width="60" height="30" as="geometry" />
+          <mxGeometry x="740" y="200" width="60" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
