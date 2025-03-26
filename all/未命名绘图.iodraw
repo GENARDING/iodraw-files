@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_rPZgR6n_TtvVpd1ZreW-41" target="_rPZgR6n_TtvVpd1ZreW-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="220" width="150" height="60" as="geometry" />
         </mxCell>
@@ -13,32 +16,11 @@
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="474" y="220" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-50" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_rPZgR6n_TtvVpd1ZreW-51" target="_rPZgR6n_TtvVpd1ZreW-57">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-51" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="554" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="_rPZgR6n_TtvVpd1ZreW-51">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="574" y="280" as="sourcePoint" />
-            <mxPoint x="634" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-54" value="条件构造器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="494" y="232.5" width="110" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-55" value="QueryWrapper" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="439" y="372.5" width="70" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-56" value="UpdateWrapper" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="579" y="375" width="70" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-57" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="360" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
