@@ -1256,8 +1256,14 @@
         <mxCell id="yX-Wjq1n7PAXVHXqBjjL-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;客户端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="190" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="yX-Wjq1n7PAXVHXqBjjL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yX-Wjq1n7PAXVHXqBjjL-9" target="yX-Wjq1n7PAXVHXqBjjL-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yX-Wjq1n7PAXVHXqBjjL-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;服务端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="190" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yX-Wjq1n7PAXVHXqBjjL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yX-Wjq1n7PAXVHXqBjjL-10" target="yX-Wjq1n7PAXVHXqBjjL-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yX-Wjq1n7PAXVHXqBjjL-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;AI识别服务&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="190" width="100" height="50" as="geometry" />
@@ -1273,6 +1279,9 @@
         </mxCell>
         <mxCell id="yX-Wjq1n7PAXVHXqBjjL-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;服务端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="500" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yX-Wjq1n7PAXVHXqBjjL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yX-Wjq1n7PAXVHXqBjjL-15" target="yX-Wjq1n7PAXVHXqBjjL-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yX-Wjq1n7PAXVHXqBjjL-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;AI识别服务&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="500" width="100" height="50" as="geometry" />
