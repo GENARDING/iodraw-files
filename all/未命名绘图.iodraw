@@ -1561,7 +1561,7 @@
             <mxPoint x="460" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="joT4fAFLh5Sf9bYN0WfF-18" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="joT4fAFLh5Sf9bYN0WfF-17">
+        <mxCell id="joT4fAFLh5Sf9bYN0WfF-18" value="失败" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="joT4fAFLh5Sf9bYN0WfF-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
