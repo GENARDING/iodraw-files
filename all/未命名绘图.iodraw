@@ -97,7 +97,7 @@
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-204" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="753" y="430" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-205" value="阅读量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-205" value="关注用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="793" y="425" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-206" value="互动数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
