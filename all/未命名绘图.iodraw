@@ -87,7 +87,7 @@
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-152" value="状态管理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="_rPZgR6n_TtvVpd1ZreW-118">
           <mxGeometry x="320" y="505" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-153" value="基础信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="_rPZgR6n_TtvVpd1ZreW-118">
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-153" value="行为记录" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="_rPZgR6n_TtvVpd1ZreW-118">
           <mxGeometry x="434" y="480" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
