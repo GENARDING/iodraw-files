@@ -111,10 +111,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-105" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.213;exitY=0.45;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-105" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="151" y="255" as="sourcePoint" />
-            <mxPoint x="360" y="255" as="targetPoint" />
+            <mxPoint x="340" y="380" as="sourcePoint" />
+            <mxPoint x="535" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-106" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="_rPZgR6n_TtvVpd1ZreW-105">
