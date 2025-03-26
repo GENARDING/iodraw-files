@@ -115,10 +115,10 @@
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-210" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="753" y="560" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-211" value="热词记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-211" value="帖子点赞" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="793" y="552.5" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-212" value="对话量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-212" value="评论点赞" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="793" y="632.5" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-213" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
