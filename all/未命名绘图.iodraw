@@ -67,11 +67,8 @@
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-192" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="753" y="165" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-193" value="用户增长" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-193" value="文字内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="803" y="152.5" width="90" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-194" value="活跃度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="803" y="197.5" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-195" value="使用习惯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="803" y="238.75" width="90" height="35" as="geometry" />
