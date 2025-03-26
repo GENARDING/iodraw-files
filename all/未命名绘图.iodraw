@@ -115,7 +115,7 @@
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-194" value="活跃度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="197.5" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-195" value="用户增长" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-195" value="使用习惯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="238.75" width="90" height="35" as="geometry" />
         </mxCell>
       </root>
