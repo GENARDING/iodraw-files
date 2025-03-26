@@ -29,7 +29,10 @@
           <mxGeometry x="170" y="232.5" width="110" height="35" as="geometry" />
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-47" value="通用CRUD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="375" width="60" height="30" as="geometry" />
+          <mxGeometry x="120" y="375" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-48" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
