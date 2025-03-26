@@ -9,8 +9,8 @@
             <mxRectangle x="340" y="390" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-119" value="野生菌识别小程序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="170" width="60" height="30" as="geometry" />
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-119" value="野生菌识别小程序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_rPZgR6n_TtvVpd1ZreW-118">
+          <mxGeometry x="20" y="10" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
