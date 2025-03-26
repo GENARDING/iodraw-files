@@ -19,7 +19,7 @@
           <mxGeometry x="60" y="70" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-122" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_rPZgR6n_TtvVpd1ZreW-118">
-          <mxGeometry x="60" y="110" width="510" height="120" as="geometry" />
+          <mxGeometry x="60" y="105" width="510" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-123" value="内容管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_rPZgR6n_TtvVpd1ZreW-118">
           <mxGeometry x="80" y="110" width="60" height="30" as="geometry" />
@@ -35,6 +35,9 @@
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-129" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="_rPZgR6n_TtvVpd1ZreW-118">
           <mxGeometry x="280" y="120" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-130" value="图片上传" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
