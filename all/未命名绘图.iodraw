@@ -1159,8 +1159,8 @@
             <mxPoint x="1180" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5wc4IhK6cFvUYssZeYVB-55" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;服务层&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="860" y="640" width="60" height="30" as="geometry" />
+        <mxCell id="5wc4IhK6cFvUYssZeYVB-55" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;数据层&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="810" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
