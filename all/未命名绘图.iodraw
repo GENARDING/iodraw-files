@@ -52,42 +52,6 @@
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-175" value="食用价值/毒性" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="574" y="370" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-176" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="640" width="510" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-177" value="用户管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="465" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-178" value="用户信息管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="495" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-179" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="470" width="50" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-180" value="基础信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="470" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-181" value="状态管理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="520" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-182" value="行为记录" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="574" y="495" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-183" value="反馈管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="607.5" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-184" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="582.5" width="50" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-185" value="反馈列表" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="582.5" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-186" value="回复处理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="632.5" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-187" value="状态更新" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="574" y="607.5" width="90" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-188" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="120" width="230" height="560" as="geometry" />
         </mxCell>
