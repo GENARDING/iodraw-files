@@ -197,10 +197,7 @@
           <mxGeometry x="770" y="815" width="107" height="45" as="geometry" />
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-240" value="历&lt;div&gt;史&lt;/div&gt;&lt;div&gt;记&lt;/div&gt;&lt;div&gt;录&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="803" y="807.5" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_rPZgR6n_TtvVpd1ZreW-240" target="_rPZgR6n_TtvVpd1ZreW-240">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="793.5" y="812.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
