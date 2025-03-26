@@ -175,6 +175,9 @@
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-228" value="结果查看" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="495" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-229" value="识别历史记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="480" width="200" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
