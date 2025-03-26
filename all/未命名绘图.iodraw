@@ -59,7 +59,7 @@
           <mxGeometry x="494" y="232.5" width="110" height="35" as="geometry" />
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-55" value="QueryWrapper" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="444" y="375" width="70" height="35" as="geometry" />
+          <mxGeometry x="439" y="372.5" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-56" value="自定义方法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="604" y="375" width="70" height="35" as="geometry" />
