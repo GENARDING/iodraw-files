@@ -1448,6 +1448,9 @@
         <mxCell id="CVL8axK1LQ1IrmlmmIUm-18" value="返回Token" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="221.25" y="370" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CVL8axK1LQ1IrmlmmIUm-19" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="140" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
