@@ -881,6 +881,12 @@
         <mxCell id="biXTlg_wiDtLblAw_74z-74" value="symptoms" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="400" y="600" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="biXTlg_wiDtLblAw_74z-75" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="biXTlg_wiDtLblAw_74z-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="400" as="sourcePoint" />
+            <mxPoint x="540" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
