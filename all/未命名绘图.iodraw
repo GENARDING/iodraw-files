@@ -30,8 +30,8 @@
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-124" value="轮播图管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_rPZgR6n_TtvVpd1ZreW-118">
           <mxGeometry x="80" y="140" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-125" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="_rPZgR6n_TtvVpd1ZreW-118">
-          <mxGeometry x="330" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-125" value="图片上传" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="_rPZgR6n_TtvVpd1ZreW-118">
+          <mxGeometry x="330" y="120" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
