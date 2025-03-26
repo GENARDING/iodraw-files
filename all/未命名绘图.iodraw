@@ -1054,7 +1054,7 @@
         <mxCell id="5wc4IhK6cFvUYssZeYVB-25" value="小程序端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="971" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5wc4IhK6cFvUYssZeYVB-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5wc4IhK6cFvUYssZeYVB-26" value="后台管理端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1181" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5wc4IhK6cFvUYssZeYVB-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
