@@ -526,8 +526,8 @@
         <mxCell id="amJsMbBsME48oKt3fI1V-81" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="amJsMbBsME48oKt3fI1V-80">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="amJsMbBsME48oKt3fI1V-82" value="Entity" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="360" y="570" width="100" height="40" as="geometry" />
+        <mxCell id="amJsMbBsME48oKt3fI1V-82" value="ArticleTag" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="464" y="820" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
