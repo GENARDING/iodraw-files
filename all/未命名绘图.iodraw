@@ -1087,10 +1087,10 @@
         <mxCell id="5wc4IhK6cFvUYssZeYVB-35" value="阿里云oss" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1251" y="710" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5wc4IhK6cFvUYssZeYVB-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5wc4IhK6cFvUYssZeYVB-36" value="Mysql" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1011" y="810" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5wc4IhK6cFvUYssZeYVB-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5wc4IhK6cFvUYssZeYVB-37" value="阿里云oss" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1206" y="810" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5wc4IhK6cFvUYssZeYVB-38" value="&lt;h1&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;显示层&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
