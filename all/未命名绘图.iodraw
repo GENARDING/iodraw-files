@@ -752,10 +752,10 @@
         <mxCell id="biXTlg_wiDtLblAw_74z-44" value="id" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="150" y="310" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="biXTlg_wiDtLblAw_74z-45" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="biXTlg_wiDtLblAw_74z-45" value="name" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="150" y="350" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="biXTlg_wiDtLblAw_74z-46" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="biXTlg_wiDtLblAw_74z-46" value="image_url" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="150" y="390" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="biXTlg_wiDtLblAw_74z-47" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
