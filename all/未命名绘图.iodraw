@@ -1200,8 +1200,8 @@
         <mxCell id="xMjdq5KLHXXTlDnJlZ-g-10" value="&lt;h2&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Uniapp&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="110" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xMjdq5KLHXXTlDnJlZ-g-11" value="&lt;h2&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Vue&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="140" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="xMjdq5KLHXXTlDnJlZ-g-11" value="&lt;h2&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Echarts&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="110" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
