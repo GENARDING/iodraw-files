@@ -1099,6 +1099,9 @@
         <mxCell id="5wc4IhK6cFvUYssZeYVB-39" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;系统架构图&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="350" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5wc4IhK6cFvUYssZeYVB-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.611;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5wc4IhK6cFvUYssZeYVB-25" target="5wc4IhK6cFvUYssZeYVB-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
