@@ -31,7 +31,7 @@
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-168" value="菌类名称" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="245" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-169" value="图片管理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-169" value="准确率" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="295" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-170" value="相似关联" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
