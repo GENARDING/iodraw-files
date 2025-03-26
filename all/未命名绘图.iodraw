@@ -22,7 +22,7 @@
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-6" value="模型训练" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="155" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-7" value="评估优化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="280" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
