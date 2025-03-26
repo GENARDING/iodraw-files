@@ -19,13 +19,13 @@
           <mxGeometry x="60" y="70" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-122" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_rPZgR6n_TtvVpd1ZreW-118">
-          <mxGeometry x="70" y="110" width="270" height="180" as="geometry" />
+          <mxGeometry x="70" y="110" width="270" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-123" value="内容管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_rPZgR6n_TtvVpd1ZreW-118">
           <mxGeometry x="80" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-124" value="轮播图管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_rPZgR6n_TtvVpd1ZreW-118">
-          <mxGeometry x="105" y="150" width="200" height="40" as="geometry" />
+          <mxGeometry x="80" y="140" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
