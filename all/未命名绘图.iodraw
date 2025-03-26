@@ -86,6 +86,9 @@
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-28" value="模型训练" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="250" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-29" value="模型训练" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="260" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
