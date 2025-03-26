@@ -26,7 +26,10 @@
           <mxGeometry x="400" y="155" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-8" value="API部署" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="270" width="60" height="30" as="geometry" />
+          <mxGeometry x="570" y="155" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
