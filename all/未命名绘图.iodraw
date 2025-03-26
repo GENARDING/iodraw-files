@@ -1078,7 +1078,7 @@
         <mxCell id="5wc4IhK6cFvUYssZeYVB-32" value="&lt;h2&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;SpringBoot&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1086" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5wc4IhK6cFvUYssZeYVB-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5wc4IhK6cFvUYssZeYVB-33" value="Mybatis-Plus" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="951" y="710" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5wc4IhK6cFvUYssZeYVB-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
