@@ -40,6 +40,9 @@
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-88" value="Token" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="455" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-89" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="180" width="10" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
