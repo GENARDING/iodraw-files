@@ -48,6 +48,9 @@
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-137" value="基础信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="_rPZgR6n_TtvVpd1ZreW-118">
           <mxGeometry x="330" y="230" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-138" value="状态控制" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="180" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
