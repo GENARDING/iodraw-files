@@ -1446,6 +1446,9 @@
         <mxCell id="CVL8axK1LQ1IrmlmmIUm-16" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;已登录&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="190" y="400" width="92.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CVL8axK1LQ1IrmlmmIUm-18" value="返回Token" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
