@@ -31,7 +31,7 @@
           <mxGeometry x="330" y="110" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-128" value="图片上传" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="_rPZgR6n_TtvVpd1ZreW-118">
-          <mxGeometry x="325" y="322.5" width="90" height="40" as="geometry" />
+          <mxGeometry x="330" y="180" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-129" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="_rPZgR6n_TtvVpd1ZreW-118">
           <mxGeometry x="280" y="120" width="50" height="90" as="geometry" />
@@ -59,6 +59,9 @@
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-143" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="_rPZgR6n_TtvVpd1ZreW-118">
           <mxGeometry x="280" y="330" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-144" value="基础信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="_rPZgR6n_TtvVpd1ZreW-118">
+          <mxGeometry x="325" y="335" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
