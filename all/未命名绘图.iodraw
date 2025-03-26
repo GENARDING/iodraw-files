@@ -1513,8 +1513,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="joT4fAFLh5Sf9bYN0WfF-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="joT4fAFLh5Sf9bYN0WfF-1" value="接受图片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
