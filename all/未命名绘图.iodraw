@@ -1233,8 +1233,8 @@
         <mxCell id="xMjdq5KLHXXTlDnJlZ-g-25" value="&lt;h2&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;MySQL&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="500" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xMjdq5KLHXXTlDnJlZ-g-26" value="&lt;h2&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Vue&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="170" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="xMjdq5KLHXXTlDnJlZ-g-26" value="&lt;h2&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;阿里云oss&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="500" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
