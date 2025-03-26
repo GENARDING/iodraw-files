@@ -1306,7 +1306,7 @@
         </mxCell>
         <mxCell id="yX-Wjq1n7PAXVHXqBjjL-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="280" as="sourcePoint" />
+            <mxPoint x="130" y="280" as="sourcePoint" />
             <mxPoint x="560" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
