@@ -19,7 +19,7 @@
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-81" value="服务端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="135" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-82" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-82" value="Token" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="135" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
