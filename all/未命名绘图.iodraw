@@ -136,11 +136,8 @@
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-217" value="文章列表" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="690" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-218" value="状态管理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-218" value="详细阅读" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="740" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-219" value="行为记录" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="574" y="715" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-220" value="反馈管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="827.5" width="200" height="40" as="geometry" />
