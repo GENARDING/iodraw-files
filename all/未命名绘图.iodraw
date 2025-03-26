@@ -25,9 +25,10 @@
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-83" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_rPZgR6n_TtvVpd1ZreW-84">
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="430" as="targetPoint" />
+            <mxPoint x="420" y="440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-84" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -164,7 +165,7 @@
             <mxPoint y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-115" value="响应数据&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_rPZgR6n_TtvVpd1ZreW-113">
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-115" value="验证结果&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_rPZgR6n_TtvVpd1ZreW-113">
           <mxGeometry x="-0.083" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
