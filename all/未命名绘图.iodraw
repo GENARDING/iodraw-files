@@ -10,7 +10,7 @@
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-160" value="野生菌识别" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="125" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-161" value="轮播图管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-161" value="图片上传识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="155" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-162" value="状态控制" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
