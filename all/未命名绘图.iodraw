@@ -1404,13 +1404,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CVL8axK1LQ1IrmlmmIUm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CVL8axK1LQ1IrmlmmIUm-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="175" y="220" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="CVL8axK1LQ1IrmlmmIUm-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CVL8axK1LQ1IrmlmmIUm-1" target="CVL8axK1LQ1IrmlmmIUm-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CVL8axK1LQ1IrmlmmIUm-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CVL8axK1LQ1IrmlmmIUm-5" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="115" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
