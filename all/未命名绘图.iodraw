@@ -51,14 +51,12 @@
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-93" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="290" as="sourcePoint" />
-            <mxPoint x="490" y="290" as="targetPoint" />
+            <mxPoint x="135" y="230" as="sourcePoint" />
+            <mxPoint x="235" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-94" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="_rPZgR6n_TtvVpd1ZreW-93">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-270" y="-70" as="offset" />
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
