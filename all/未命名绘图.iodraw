@@ -1375,7 +1375,7 @@
             <mxPoint x="370" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yX-Wjq1n7PAXVHXqBjjL-42" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="yX-Wjq1n7PAXVHXqBjjL-41">
+        <mxCell id="yX-Wjq1n7PAXVHXqBjjL-42" value="返回识别结果l" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="yX-Wjq1n7PAXVHXqBjjL-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
