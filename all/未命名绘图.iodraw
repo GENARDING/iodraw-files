@@ -178,8 +178,8 @@
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-232" value="区别对比" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="605" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-233" value="状态更新" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="787.5" width="90" height="40" as="geometry" />
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-233" value="功能建议" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="802.5" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
