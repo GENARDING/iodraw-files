@@ -83,8 +83,8 @@
         <mxCell id="_rPZgR6n_TtvVpd1ZreW-26" value="数据预处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="210" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_rPZgR6n_TtvVpd1ZreW-28" value="数据预处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="220" width="90" height="40" as="geometry" />
+        <mxCell id="_rPZgR6n_TtvVpd1ZreW-28" value="模型训练" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="250" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
