@@ -1477,6 +1477,9 @@
         <mxCell id="CVL8axK1LQ1IrmlmmIUm-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CVL8axK1LQ1IrmlmmIUm-28" target="CVL8axK1LQ1IrmlmmIUm-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CVL8axK1LQ1IrmlmmIUm-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CVL8axK1LQ1IrmlmmIUm-28" target="CVL8axK1LQ1IrmlmmIUm-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CVL8axK1LQ1IrmlmmIUm-28" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;验证Token&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="120" y="530" width="92.5" height="30" as="geometry" />
         </mxCell>
@@ -1490,7 +1493,10 @@
           <mxGeometry x="120" y="650" width="92.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CVL8axK1LQ1IrmlmmIUm-34" value="验证通过" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="560" width="90" height="30" as="geometry" />
+          <mxGeometry x="160" y="560" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CVL8axK1LQ1IrmlmmIUm-36" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;验证Token&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="530" width="92.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
