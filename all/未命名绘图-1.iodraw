@@ -2450,16 +2450,16 @@
           <mxGeometry x="150" y="270" width="510" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n6zBA2fJq0F3AZ__7Pzh-2" value="IDEA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="285" width="90" height="30" as="geometry" />
+          <mxGeometry x="210" y="285" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n6zBA2fJq0F3AZ__7Pzh-3" value="HBuilderX" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="285" width="90" height="30" as="geometry" />
+          <mxGeometry x="335" y="285" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n6zBA2fJq0F3AZ__7Pzh-4" value="Navicat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="285" width="90" height="30" as="geometry" />
+          <mxGeometry x="440" y="285" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n6zBA2fJq0F3AZ__7Pzh-5" value="VS Code" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="285" width="90" height="30" as="geometry" />
+          <mxGeometry x="550" y="285" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n6zBA2fJq0F3AZ__7Pzh-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="350" width="650" height="60" as="geometry" />
