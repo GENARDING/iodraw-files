@@ -1665,6 +1665,9 @@
         <mxCell id="Basx13T_EIkHO31Dm6R9-27" value="异常处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="530" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Basx13T_EIkHO31Dm6R9-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
