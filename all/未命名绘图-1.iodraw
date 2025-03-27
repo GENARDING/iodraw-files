@@ -2342,7 +2342,7 @@
         <mxCell id="t_x1anGauJXmNjgBL3xE-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="440" as="sourcePoint" />
-            <mxPoint x="410" y="440" as="targetPoint" />
+            <mxPoint x="300" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="t_x1anGauJXmNjgBL3xE-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -2372,8 +2372,8 @@
         <mxCell id="t_x1anGauJXmNjgBL3xE-37" value="部署后端服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="340" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t_x1anGauJXmNjgBL3xE-39" value="返回结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="380" width="60" height="30" as="geometry" />
+        <mxCell id="t_x1anGauJXmNjgBL3xE-39" value="配置方向代理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="410" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t_x1anGauJXmNjgBL3xE-40" value="启动成功" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="370" width="60" height="30" as="geometry" />
