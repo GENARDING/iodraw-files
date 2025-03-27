@@ -1804,8 +1804,14 @@
         <mxCell id="MNcV1omDg77_MGMgCpOQ-39" value="发帖流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MNcV1omDg77_MGMgCpOQ-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MNcV1omDg77_MGMgCpOQ-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MNcV1omDg77_MGMgCpOQ-40" target="MNcV1omDg77_MGMgCpOQ-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MNcV1omDg77_MGMgCpOQ-40" value="发帖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="140" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MNcV1omDg77_MGMgCpOQ-41" value="发帖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="260" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
