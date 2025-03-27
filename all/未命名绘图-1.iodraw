@@ -2104,8 +2104,8 @@
         <mxCell id="fGd4irQyiKcN2vg4Prja-21" value="保存记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="510" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fGd4irQyiKcN2vg4Prja-24" value="判断置信度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="560" width="90" height="30" as="geometry" />
+        <mxCell id="fGd4irQyiKcN2vg4Prja-24" value="记录失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="510" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
