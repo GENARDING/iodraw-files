@@ -2134,7 +2134,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="STr6MNioBscA5eWW0RCJ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="350" width="380" height="80" as="geometry" />
+          <mxGeometry x="40" y="340" width="380" height="80" as="geometry" />
         </mxCell>
         <mxCell id="STr6MNioBscA5eWW0RCJ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="370" width="110" height="40" as="geometry" />
@@ -2144,6 +2144,9 @@
         </mxCell>
         <mxCell id="STr6MNioBscA5eWW0RCJ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="370" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="STr6MNioBscA5eWW0RCJ-7" value="处理方式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="270" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
