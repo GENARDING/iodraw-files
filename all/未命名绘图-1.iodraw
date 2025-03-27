@@ -1626,6 +1626,9 @@
             <mxPoint x="290" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Basx13T_EIkHO31Dm6R9-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.sequential_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="420" y="320" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
