@@ -2175,10 +2175,13 @@
         <mxCell id="STr6MNioBscA5eWW0RCJ-18" value="SystemException" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="240" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="STr6MNioBscA5eWW0RCJ-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="STr6MNioBscA5eWW0RCJ-10">
+        <mxCell id="STr6MNioBscA5eWW0RCJ-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="STr6MNioBscA5eWW0RCJ-10" target="STr6MNioBscA5eWW0RCJ-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="320" as="sourcePoint" />
             <mxPoint x="590" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="320" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
