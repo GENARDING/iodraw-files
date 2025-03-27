@@ -2423,7 +2423,7 @@
         <mxCell id="t_x1anGauJXmNjgBL3xE-38" value="发送请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="350" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t_x1anGauJXmNjgBL3xE-39" value="发送请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="t_x1anGauJXmNjgBL3xE-39" value="返回结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
