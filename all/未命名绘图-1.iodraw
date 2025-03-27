@@ -1958,7 +1958,7 @@
         <mxCell id="pEE5q1JfE_ZNPgIFAEjV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pEE5q1JfE_ZNPgIFAEjV-4" target="pEE5q1JfE_ZNPgIFAEjV-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pEE5q1JfE_ZNPgIFAEjV-4" value="查看文章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pEE5q1JfE_ZNPgIFAEjV-4" value="数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="160" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pEE5q1JfE_ZNPgIFAEjV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pEE5q1JfE_ZNPgIFAEjV-6" target="pEE5q1JfE_ZNPgIFAEjV-8">
@@ -1979,7 +1979,7 @@
         <mxCell id="pEE5q1JfE_ZNPgIFAEjV-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="120" width="120" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="pEE5q1JfE_ZNPgIFAEjV-20" value="文章管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pEE5q1JfE_ZNPgIFAEjV-20" value="内容管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pEE5q1JfE_ZNPgIFAEjV-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="pEE5q1JfE_ZNPgIFAEjV-22" target="pEE5q1JfE_ZNPgIFAEjV-24" parent="1">
