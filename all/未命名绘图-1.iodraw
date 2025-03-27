@@ -2229,7 +2229,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="STr6MNioBscA5eWW0RCJ-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="STr6MNioBscA5eWW0RCJ-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="STr6MNioBscA5eWW0RCJ-11" target="STr6MNioBscA5eWW0RCJ-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="180" as="sourcePoint" />
             <mxPoint x="710" y="130" as="targetPoint" />
