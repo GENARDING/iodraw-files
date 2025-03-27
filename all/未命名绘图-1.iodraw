@@ -2378,8 +2378,8 @@
         <mxCell id="t_x1anGauJXmNjgBL3xE-40" value="启动成功" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="370" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t_x1anGauJXmNjgBL3xE-41" value="保存记录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="450" width="60" height="30" as="geometry" />
+        <mxCell id="t_x1anGauJXmNjgBL3xE-41" value="配置SSL证书" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t_x1anGauJXmNjgBL3xE-42" value="配置成功" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="440" width="60" height="30" as="geometry" />
