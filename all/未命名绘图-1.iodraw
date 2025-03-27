@@ -2157,6 +2157,9 @@
         <mxCell id="STr6MNioBscA5eWW0RCJ-10" value="Controller层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="180" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="STr6MNioBscA5eWW0RCJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="STr6MNioBscA5eWW0RCJ-11" target="STr6MNioBscA5eWW0RCJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="STr6MNioBscA5eWW0RCJ-11" value="Util层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="180" width="110" height="40" as="geometry" />
         </mxCell>
@@ -2206,6 +2209,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="240" as="sourcePoint" />
             <mxPoint x="600" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="140" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
