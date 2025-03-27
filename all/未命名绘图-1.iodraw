@@ -1761,7 +1761,7 @@
             <mxPoint x="680" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MNcV1omDg77_MGMgCpOQ-26" value="是" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MNcV1omDg77_MGMgCpOQ-25">
+        <mxCell id="MNcV1omDg77_MGMgCpOQ-26" value="普通评论" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MNcV1omDg77_MGMgCpOQ-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-6" y="-10" as="offset" />
           </mxGeometry>
@@ -1772,7 +1772,7 @@
         <mxCell id="MNcV1omDg77_MGMgCpOQ-28" value="取消" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MNcV1omDg77_MGMgCpOQ-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="MNcV1omDg77_MGMgCpOQ-32">
+        <mxCell id="MNcV1omDg77_MGMgCpOQ-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MNcV1omDg77_MGMgCpOQ-35" target="MNcV1omDg77_MGMgCpOQ-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="457" y="320" as="sourcePoint" />
             <mxPoint x="680" y="390" as="targetPoint" />
