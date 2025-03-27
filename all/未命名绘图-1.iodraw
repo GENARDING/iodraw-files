@@ -2434,10 +2434,16 @@
         <mxCell id="OU63oTI-wpkRy8biP9Pm-13" value="技术特点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="575" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OU63oTI-wpkRy8biP9Pm-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="OU63oTI-wpkRy8biP9Pm-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n6zBA2fJq0F3AZ__7Pzh-2" target="OU63oTI-wpkRy8biP9Pm-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="510" as="sourcePoint" />
             <mxPoint x="440" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OU63oTI-wpkRy8biP9Pm-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379.5" y="445" as="sourcePoint" />
+            <mxPoint x="379.5" y="575" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
