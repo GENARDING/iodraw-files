@@ -2431,6 +2431,9 @@
         <mxCell id="OU63oTI-wpkRy8biP9Pm-11" value="统一认证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="575" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OU63oTI-wpkRy8biP9Pm-13" value="技术特点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="575" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
