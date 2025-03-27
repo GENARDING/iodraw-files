@@ -1706,6 +1706,15 @@
         <mxCell id="MNcV1omDg77_MGMgCpOQ-3" value="是否点赞" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="177" y="260" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="MNcV1omDg77_MGMgCpOQ-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MNcV1omDg77_MGMgCpOQ-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="390" as="sourcePoint" />
+            <mxPoint x="460" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNcV1omDg77_MGMgCpOQ-8" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MNcV1omDg77_MGMgCpOQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
