@@ -2053,6 +2053,9 @@
             <mxPoint x="240" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fGd4irQyiKcN2vg4Prja-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fGd4irQyiKcN2vg4Prja-5" target="fGd4irQyiKcN2vg4Prja-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fGd4irQyiKcN2vg4Prja-5" value="解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="280" width="90" height="30" as="geometry" />
         </mxCell>
@@ -2070,6 +2073,9 @@
         </mxCell>
         <mxCell id="fGd4irQyiKcN2vg4Prja-9" value="无效" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fGd4irQyiKcN2vg4Prja-10" value="解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="350" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
