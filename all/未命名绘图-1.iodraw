@@ -2361,13 +2361,13 @@
           <mxGeometry x="90" y="260" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t_x1anGauJXmNjgBL3xE-34" value="配置环境" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="210" y="275" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t_x1anGauJXmNjgBL3xE-35" value="返回URL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t_x1anGauJXmNjgBL3xE-36" value="导入数据库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="310" width="70" height="30" as="geometry" />
+          <mxGeometry x="210" y="310" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t_x1anGauJXmNjgBL3xE-37" value="调用API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="313.5" y="330" width="60" height="30" as="geometry" />
