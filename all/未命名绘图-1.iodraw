@@ -2095,11 +2095,17 @@
         <mxCell id="fGd4irQyiKcN2vg4Prja-17" value="返回结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="450" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fGd4irQyiKcN2vg4Prja-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fGd4irQyiKcN2vg4Prja-18" target="fGd4irQyiKcN2vg4Prja-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fGd4irQyiKcN2vg4Prja-18" value="判断置信度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="450" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fGd4irQyiKcN2vg4Prja-21" value="返回结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fGd4irQyiKcN2vg4Prja-21" value="保存记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="510" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fGd4irQyiKcN2vg4Prja-24" value="判断置信度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="560" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
