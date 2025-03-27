@@ -1964,7 +1964,7 @@
         <mxCell id="pEE5q1JfE_ZNPgIFAEjV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pEE5q1JfE_ZNPgIFAEjV-6" target="pEE5q1JfE_ZNPgIFAEjV-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pEE5q1JfE_ZNPgIFAEjV-6" value="上传图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pEE5q1JfE_ZNPgIFAEjV-6" value="权限校验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pEE5q1JfE_ZNPgIFAEjV-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pEE5q1JfE_ZNPgIFAEjV-8" target="pEE5q1JfE_ZNPgIFAEjV-9">
