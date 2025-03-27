@@ -2407,11 +2407,20 @@
         <mxCell id="n6zBA2fJq0F3AZ__7Pzh-2" value="智能识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="415" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OU63oTI-wpkRy8biP9Pm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n6zBA2fJq0F3AZ__7Pzh-3" target="OU63oTI-wpkRy8biP9Pm-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n6zBA2fJq0F3AZ__7Pzh-3" value="社交互动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="415" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OU63oTI-wpkRy8biP9Pm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n6zBA2fJq0F3AZ__7Pzh-4" target="OU63oTI-wpkRy8biP9Pm-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n6zBA2fJq0F3AZ__7Pzh-4" value="知识管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="415" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OU63oTI-wpkRy8biP9Pm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n6zBA2fJq0F3AZ__7Pzh-5" target="OU63oTI-wpkRy8biP9Pm-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n6zBA2fJq0F3AZ__7Pzh-5" value="用户系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="415" width="90" height="30" as="geometry" />
