@@ -1749,11 +1749,6 @@
         <mxCell id="MNcV1omDg77_MGMgCpOQ-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="100" width="200" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="MNcV1omDg77_MGMgCpOQ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MNcV1omDg77_MGMgCpOQ-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="437" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MNcV1omDg77_MGMgCpOQ-23" value="评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="377" y="140" width="120" height="60" as="geometry" />
         </mxCell>
