@@ -1810,7 +1810,7 @@
         <mxCell id="MNcV1omDg77_MGMgCpOQ-40" value="发帖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="140" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MNcV1omDg77_MGMgCpOQ-41" value="发帖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MNcV1omDg77_MGMgCpOQ-41" value="上传图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="260" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
