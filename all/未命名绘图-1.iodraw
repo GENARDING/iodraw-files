@@ -1839,7 +1839,7 @@
         <mxCell id="EWtlde7kkPHNZyuFGfEm-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;OSSUtil&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EWtlde7kkPHNZyuFGfEm-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;EasyDL&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EWtlde7kkPHNZyuFGfEm-3" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;阿里云OSS&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="200" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EWtlde7kkPHNZyuFGfEm-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Controller&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
