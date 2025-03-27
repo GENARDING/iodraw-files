@@ -1795,7 +1795,7 @@
         <mxCell id="MNcV1omDg77_MGMgCpOQ-33" value="更新点赞数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="387" y="430" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MNcV1omDg77_MGMgCpOQ-34" value="点赞流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MNcV1omDg77_MGMgCpOQ-34" value="评论流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="110" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
