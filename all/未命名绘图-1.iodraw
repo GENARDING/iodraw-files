@@ -2428,7 +2428,7 @@
         <mxCell id="OU63oTI-wpkRy8biP9Pm-10" value="分布式存储" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="575" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OU63oTI-wpkRy8biP9Pm-11" value="VS Code" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OU63oTI-wpkRy8biP9Pm-11" value="统一认证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="575" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
