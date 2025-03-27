@@ -2087,7 +2087,7 @@
           <mxGeometry x="190" y="380" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fGd4irQyiKcN2vg4Prja-14" value="解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="380" width="90" height="30" as="geometry" />
+          <mxGeometry x="310" y="380" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
