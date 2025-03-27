@@ -2056,6 +2056,9 @@
         <mxCell id="fGd4irQyiKcN2vg4Prja-5" value="解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="280" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fGd4irQyiKcN2vg4Prja-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
