@@ -2470,8 +2470,8 @@
         <mxCell id="n6zBA2fJq0F3AZ__7Pzh-8" value="MySQL8.0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="365" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n6zBA2fJq0F3AZ__7Pzh-9" value="MySQL8.0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="365" width="90" height="30" as="geometry" />
+        <mxCell id="n6zBA2fJq0F3AZ__7Pzh-9" value="Nginx1.2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="365" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
