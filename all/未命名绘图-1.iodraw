@@ -2482,7 +2482,7 @@
         <mxCell id="n6zBA2fJq0F3AZ__7Pzh-12" value="EasyDL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="440" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n6zBA2fJq0F3AZ__7Pzh-13" value="EasyDL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n6zBA2fJq0F3AZ__7Pzh-13" value="DeepSeek API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="440" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
