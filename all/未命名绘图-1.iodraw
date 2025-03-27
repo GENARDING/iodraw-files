@@ -2511,7 +2511,7 @@
           <mxGeometry x="10" y="340" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ixO9_1_7SMPmXcd7GN1C-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Vue+ElementUI+Echarts&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="387.5" width="170" height="42.5" as="geometry" />
+          <mxGeometry x="120" y="400" width="170" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="ixO9_1_7SMPmXcd7GN1C-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;uniapp&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="400" width="90" height="30" as="geometry" />
@@ -2561,7 +2561,13 @@
             <mxPoint x="440" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ixO9_1_7SMPmXcd7GN1C-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ixO9_1_7SMPmXcd7GN1C-12">
+        <mxCell id="ixO9_1_7SMPmXcd7GN1C-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ixO9_1_7SMPmXcd7GN1C-12" target="ixO9_1_7SMPmXcd7GN1C-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ixO9_1_7SMPmXcd7GN1C-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="410" as="sourcePoint" />
             <mxPoint x="440" y="360" as="targetPoint" />
