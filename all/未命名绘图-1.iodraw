@@ -1977,7 +1977,7 @@
           <mxGeometry x="170" y="420" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pEE5q1JfE_ZNPgIFAEjV-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="110" width="120" height="390" as="geometry" />
+          <mxGeometry x="320" y="110" width="120" height="390" as="geometry" />
         </mxCell>
         <mxCell id="pEE5q1JfE_ZNPgIFAEjV-11" value="阅读" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="120" width="60" height="30" as="geometry" />
