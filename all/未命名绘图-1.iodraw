@@ -2647,7 +2647,7 @@
         <mxCell id="-5768JEMxkoLHltIv_oG-4" value="并发性能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="360" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-5768JEMxkoLHltIv_oG-5" value="并发性能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-5768JEMxkoLHltIv_oG-5" value="缓存策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="430" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
