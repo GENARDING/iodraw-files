@@ -2453,7 +2453,10 @@
           <mxGeometry x="180" y="285" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n6zBA2fJq0F3AZ__7Pzh-3" value="HBuilderX" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="285" width="90" height="30" as="geometry" />
+          <mxGeometry x="280" y="285" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n6zBA2fJq0F3AZ__7Pzh-4" value="Navicat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="285" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
