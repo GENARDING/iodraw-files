@@ -2381,7 +2381,7 @@
         <mxCell id="t_x1anGauJXmNjgBL3xE-41" value="保存记录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="450" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t_x1anGauJXmNjgBL3xE-42" value="返回结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=1;" vertex="1" parent="1">
+        <mxCell id="t_x1anGauJXmNjgBL3xE-42" value="配置成功" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="440" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t_x1anGauJXmNjgBL3xE-43" value="显示信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=1;" vertex="1" parent="1">
