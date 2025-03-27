@@ -1778,7 +1778,7 @@
             <mxPoint x="680" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MNcV1omDg77_MGMgCpOQ-30" value="否" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MNcV1omDg77_MGMgCpOQ-29">
+        <mxCell id="MNcV1omDg77_MGMgCpOQ-30" value="回复评论" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MNcV1omDg77_MGMgCpOQ-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="9" y="-5" as="offset" />
           </mxGeometry>
