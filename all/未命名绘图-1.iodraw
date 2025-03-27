@@ -2532,7 +2532,10 @@
           <mxGeometry x="630" y="345" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ixO9_1_7SMPmXcd7GN1C-18" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;EasyDL识别&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="380" width="80" height="35" as="geometry" />
+          <mxGeometry x="680" y="380" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ixO9_1_7SMPmXcd7GN1C-19" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;EasyDL识别&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="380" width="90" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
