@@ -1629,6 +1629,12 @@
         <mxCell id="Basx13T_EIkHO31Dm6R9-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.sequential_data;whiteSpace=wrap;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="300" y="280" width="40" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Basx13T_EIkHO31Dm6R9-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="360" as="sourcePoint" />
+            <mxPoint x="490" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
