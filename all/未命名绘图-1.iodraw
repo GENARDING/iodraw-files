@@ -2416,6 +2416,24 @@
         <mxCell id="n6zBA2fJq0F3AZ__7Pzh-17" value="开发环境" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="415" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OU63oTI-wpkRy8biP9Pm-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="560" width="510" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OU63oTI-wpkRy8biP9Pm-8" value="IDEA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="575" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OU63oTI-wpkRy8biP9Pm-9" value="HBuilderX" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="575" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OU63oTI-wpkRy8biP9Pm-10" value="Navicat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="575" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OU63oTI-wpkRy8biP9Pm-11" value="VS Code" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="575" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OU63oTI-wpkRy8biP9Pm-12" value="开发环境" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="575" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
