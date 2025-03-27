@@ -2422,7 +2422,7 @@
         <mxCell id="OU63oTI-wpkRy8biP9Pm-8" value="AI集成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="575" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OU63oTI-wpkRy8biP9Pm-9" value="HBuilderX" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OU63oTI-wpkRy8biP9Pm-9" value="前后端分离" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="575" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OU63oTI-wpkRy8biP9Pm-10" value="Navicat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
