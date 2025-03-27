@@ -1729,8 +1729,8 @@
         <mxCell id="MNcV1omDg77_MGMgCpOQ-14" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MNcV1omDg77_MGMgCpOQ-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MNcV1omDg77_MGMgCpOQ-15" value="取消" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="202" y="400" width="75" height="30" as="geometry" />
+        <mxCell id="MNcV1omDg77_MGMgCpOQ-15" value="添加" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
