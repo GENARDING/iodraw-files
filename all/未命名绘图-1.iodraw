@@ -2038,8 +2038,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fGd4irQyiKcN2vg4Prja-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fGd4irQyiKcN2vg4Prja-1" target="fGd4irQyiKcN2vg4Prja-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fGd4irQyiKcN2vg4Prja-1" value="识别结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fGd4irQyiKcN2vg4Prja-2" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="180" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
