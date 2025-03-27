@@ -2042,7 +2042,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fGd4irQyiKcN2vg4Prja-1" value="识别结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="80" width="130" height="40" as="geometry" />
+          <mxGeometry x="240" y="90" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fGd4irQyiKcN2vg4Prja-2" value="验证" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="265" y="160" width="80" height="80" as="geometry" />
@@ -2054,7 +2054,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fGd4irQyiKcN2vg4Prja-5" value="解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="280" width="100" height="40" as="geometry" />
+          <mxGeometry x="190" y="280" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
