@@ -2027,7 +2027,7 @@
         <mxCell id="pEE5q1JfE_ZNPgIFAEjV-35" value="修改信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="330" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pEE5q1JfE_ZNPgIFAEjV-36" value="发送通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pEE5q1JfE_ZNPgIFAEjV-36" value="状态管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="420" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
