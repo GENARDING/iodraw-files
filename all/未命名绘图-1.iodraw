@@ -2154,6 +2154,9 @@
         <mxCell id="STr6MNioBscA5eWW0RCJ-9" value="Service层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="240" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="STr6MNioBscA5eWW0RCJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="STr6MNioBscA5eWW0RCJ-10" target="STr6MNioBscA5eWW0RCJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="STr6MNioBscA5eWW0RCJ-10" value="Controller层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="300" width="110" height="40" as="geometry" />
         </mxCell>
