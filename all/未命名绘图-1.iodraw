@@ -1796,7 +1796,7 @@
           <mxGeometry x="360" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MNcV1omDg77_MGMgCpOQ-35" value="评论类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="230" width="107" height="60" as="geometry" />
+          <mxGeometry x="397" y="220" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
