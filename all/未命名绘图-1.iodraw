@@ -2411,6 +2411,9 @@
         <mxCell id="t_x1anGauJXmNjgBL3xE-34" value="存储图片" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="250" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="t_x1anGauJXmNjgBL3xE-35" value="返回URL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
