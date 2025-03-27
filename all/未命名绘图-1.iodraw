@@ -1695,7 +1695,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MNcV1omDg77_MGMgCpOQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="100" width="190" height="420" as="geometry" />
+          <mxGeometry x="130" y="100" width="200" height="420" as="geometry" />
         </mxCell>
         <mxCell id="MNcV1omDg77_MGMgCpOQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MNcV1omDg77_MGMgCpOQ-2" target="MNcV1omDg77_MGMgCpOQ-3">
           <mxGeometry relative="1" as="geometry" />
