@@ -1712,8 +1712,10 @@
             <mxPoint x="460" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MNcV1omDg77_MGMgCpOQ-8" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MNcV1omDg77_MGMgCpOQ-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="MNcV1omDg77_MGMgCpOQ-8" value="是" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MNcV1omDg77_MGMgCpOQ-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MNcV1omDg77_MGMgCpOQ-9" value="取消" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="380" width="75" height="30" as="geometry" />
