@@ -1997,10 +1997,10 @@
         <mxCell id="pEE5q1JfE_ZNPgIFAEjV-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="pEE5q1JfE_ZNPgIFAEjV-26" target="pEE5q1JfE_ZNPgIFAEjV-27" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pEE5q1JfE_ZNPgIFAEjV-26" value="记录阅读" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pEE5q1JfE_ZNPgIFAEjV-26" value="保存文章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="330" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pEE5q1JfE_ZNPgIFAEjV-27" value="更新阅读量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pEE5q1JfE_ZNPgIFAEjV-27" value="更新文章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="420" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
