@@ -2012,13 +2012,13 @@
         <mxCell id="pEE5q1JfE_ZNPgIFAEjV-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="pEE5q1JfE_ZNPgIFAEjV-31" target="pEE5q1JfE_ZNPgIFAEjV-33" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pEE5q1JfE_ZNPgIFAEjV-31" value="内容审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pEE5q1JfE_ZNPgIFAEjV-31" value="用户列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="160" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pEE5q1JfE_ZNPgIFAEjV-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="pEE5q1JfE_ZNPgIFAEjV-33" target="pEE5q1JfE_ZNPgIFAEjV-35" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pEE5q1JfE_ZNPgIFAEjV-33" value="处理反馈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pEE5q1JfE_ZNPgIFAEjV-33" value="详细信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pEE5q1JfE_ZNPgIFAEjV-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="pEE5q1JfE_ZNPgIFAEjV-35" target="pEE5q1JfE_ZNPgIFAEjV-36" parent="1">
