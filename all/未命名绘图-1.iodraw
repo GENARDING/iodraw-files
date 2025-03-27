@@ -1720,7 +1720,7 @@
         <mxCell id="MNcV1omDg77_MGMgCpOQ-9" value="取消" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="360" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MNcV1omDg77_MGMgCpOQ-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="MNcV1omDg77_MGMgCpOQ-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MNcV1omDg77_MGMgCpOQ-3" target="MNcV1omDg77_MGMgCpOQ-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="390" as="sourcePoint" />
             <mxPoint x="460" y="390" as="targetPoint" />
