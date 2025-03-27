@@ -1749,6 +1749,9 @@
         <mxCell id="MNcV1omDg77_MGMgCpOQ-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="100" width="200" height="420" as="geometry" />
         </mxCell>
+        <mxCell id="MNcV1omDg77_MGMgCpOQ-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MNcV1omDg77_MGMgCpOQ-23" target="MNcV1omDg77_MGMgCpOQ-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MNcV1omDg77_MGMgCpOQ-23" value="评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="377" y="140" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1791,6 +1794,9 @@
         </mxCell>
         <mxCell id="MNcV1omDg77_MGMgCpOQ-34" value="评论流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MNcV1omDg77_MGMgCpOQ-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="377" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
