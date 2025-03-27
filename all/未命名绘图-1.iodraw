@@ -1755,7 +1755,7 @@
         <mxCell id="MNcV1omDg77_MGMgCpOQ-23" value="评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="377" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MNcV1omDg77_MGMgCpOQ-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="MNcV1omDg77_MGMgCpOQ-28">
+        <mxCell id="MNcV1omDg77_MGMgCpOQ-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MNcV1omDg77_MGMgCpOQ-35" target="MNcV1omDg77_MGMgCpOQ-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="417" y="320" as="sourcePoint" />
             <mxPoint x="680" y="380" as="targetPoint" />
