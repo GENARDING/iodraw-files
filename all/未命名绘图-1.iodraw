@@ -2659,7 +2659,7 @@
         <mxCell id="-5768JEMxkoLHltIv_oG-8" value="社交功能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="290" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-5768JEMxkoLHltIv_oG-9" value="并发性能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-5768JEMxkoLHltIv_oG-9" value="专家系统待完善" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="360" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-5768JEMxkoLHltIv_oG-10" value="缓存策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
