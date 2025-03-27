@@ -2405,8 +2405,8 @@
             <mxPoint x="80" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t_x1anGauJXmNjgBL3xE-33" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="370" width="60" height="30" as="geometry" />
+        <mxCell id="t_x1anGauJXmNjgBL3xE-33" value="上传图片" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="140" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
