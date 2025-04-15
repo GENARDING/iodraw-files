@@ -3163,8 +3163,8 @@
         <mxCell id="H3fwSX8PXTjtZyFARBwk-47" value="mybatis-plus" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="205.32999999999998" y="572.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H3fwSX8PXTjtZyFARBwk-48" value="宝塔面板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="715" width="60" height="30" as="geometry" />
+        <mxCell id="H3fwSX8PXTjtZyFARBwk-48" value="阿里云oss" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="600" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
