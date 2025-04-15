@@ -3161,7 +3161,7 @@
           <mxGeometry x="450" y="695" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H3fwSX8PXTjtZyFARBwk-47" value="mybatis-plus" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="600" width="60" height="30" as="geometry" />
+          <mxGeometry x="205.32999999999998" y="572.5" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
