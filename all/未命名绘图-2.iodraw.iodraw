@@ -3109,11 +3109,8 @@
         <mxCell id="H3fwSX8PXTjtZyFARBwk-25" value="Mapper持久层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="410" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="H3fwSX8PXTjtZyFARBwk-26" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="370" as="sourcePoint" />
-            <mxPoint x="530" y="320" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="H3fwSX8PXTjtZyFARBwk-27" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" vertex="1" parent="1">
+          <mxGeometry x="400" y="525" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
