@@ -3059,7 +3059,7 @@
           <mxGeometry x="110" y="80" width="590" height="590" as="geometry" />
         </mxCell>
         <mxCell id="H3fwSX8PXTjtZyFARBwk-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="90" width="450" height="50" as="geometry" />
+          <mxGeometry x="160" y="90.27" width="450" height="50" as="geometry" />
         </mxCell>
         <mxCell id="H3fwSX8PXTjtZyFARBwk-4" value="用户" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="100" width="60" height="30" as="geometry" />
