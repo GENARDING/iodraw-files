@@ -3083,7 +3083,7 @@
           <mxGeometry x="313.34" y="185" width="36.66" height="36.66" as="geometry" />
         </mxCell>
         <mxCell id="H3fwSX8PXTjtZyFARBwk-11" value="Vue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200.66" y="270" width="60" height="30" as="geometry" />
+          <mxGeometry x="220" y="280" width="40.66" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
