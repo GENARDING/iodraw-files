@@ -3092,7 +3092,10 @@
           <mxGeometry x="470" y="190" width="126" height="33.29" as="geometry" />
         </mxCell>
         <mxCell id="H3fwSX8PXTjtZyFARBwk-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="290" width="490" height="190" as="geometry" />
+          <mxGeometry x="120" y="280" width="480" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="H3fwSX8PXTjtZyFARBwk-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="430" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
