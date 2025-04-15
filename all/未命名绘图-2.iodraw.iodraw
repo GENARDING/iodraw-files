@@ -3058,9 +3058,6 @@
         <mxCell id="H3fwSX8PXTjtZyFARBwk-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="150" y="80" width="590" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="H3fwSX8PXTjtZyFARBwk-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="110" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
