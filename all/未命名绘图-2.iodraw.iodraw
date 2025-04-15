@@ -3140,7 +3140,10 @@
           <mxGeometry x="285" y="660" width="128.32" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H3fwSX8PXTjtZyFARBwk-39" value="阿里云服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="680" width="90" height="30" as="geometry" />
+          <mxGeometry x="300" y="690" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H3fwSX8PXTjtZyFARBwk-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="265" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
